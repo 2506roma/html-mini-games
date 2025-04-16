@@ -21,7 +21,8 @@ Foram criados como parte de uma jornada de aprendizado prático em Programação
 ![Snake](https://raw.githubusercontent.com/2506roma/pwi2021II/main/Snake/snake-preview.png)
 
 ### Helicóptero
-![Helicóptero](https://raw.githubusercontent.com/2506roma/pwi2021II/main/Helicóptero/helicoptero-preview.png)
+![Helicóptero](https://raw.githubusercontent.com/2506roma/html-mini-games/main/helicoptero/helicoptero-preview.png)
+
 
 ---
 
